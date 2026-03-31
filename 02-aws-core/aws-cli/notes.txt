@@ -1,0 +1,5 @@
+AWS CLI:
+
+aws cofigure
+
+1. aws iam list-users 
