@@ -140,7 +140,7 @@ Runs on existing OS
 
 - Example: VirtualBox
 
-![alt text](image-2.png)
+![alt text](./screenshots/image-2.png)
 
 ---
 
@@ -304,7 +304,7 @@ Each VM has:
 - Multiple VMs → separate systems inside one system
 
 
-![alt text](image-1.png)
+![alt text](./screenshots/image-1.png)
 
 ---
 
@@ -429,11 +429,11 @@ Flow:
 - Hypervisor creates multiple VMs
 - Har VM apna OS run karta hai
 
-![alt text](image-5.png)
+![alt text](./screenshots/image-5.png)
 
 ---
 
-![alt text](image-3.png)
+![alt text](./screenshots/image-3.png)
 
 ### 🔹 Types of Hypervisor
 
