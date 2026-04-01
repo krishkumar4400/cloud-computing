@@ -1,0 +1,43 @@
+1. Introduction to cloud computing: 
+
+2. Advantages of Cloud Computing: 
+    1. Trade fixed expense for variable expense:
+    (Fixed expense => capex - capital expense )
+    (variable expense => opex - variable expense )
+
+when you have datacenter first thing is building data center now when we are going to build datacenter you have to purchase hardwares like routers, networking devices, storage devices, cables, cooling systems, processors, rake, servers. so you have to pay upfront amount for this. it is your initial investment. we call it capital expenditure. 
+        When we have these data center we have to pay electricity bill every month, we have to pay for manpower everymonth, we have to pay for server maintainance, we have to pay for security. so all this expenses we are paying monthly we call it variable expenses. 
+
+    When you are going to use infrastructure of cloud service provider you are not going to build any data center so the biggest advatage of cloud is we are eleminating capital expenditure. 
+
+    So, we have to pay resources bill that we are going to use from cloud service provider we call it operational expenditure.
+
+    So, eliminating capital expenditure is the first biggest advanatge of cloud.
+
+    2. Benefits from massive economics of scale: 
+        if i am having only small data center if i am going to purchase device for this suppose i am going to cisco and i tell i want 5 routers from you. cisco will provide me 5 routers at the retail price. But i am telling about aws, aws have its huge data center and if aws gives order then it's order will be huge order. and cisco will proovide then huge discount. in one data center aws has 50 to 60 thousand servers. 
+
+    3. stop guessing capacity: 
+        let's say that you have an application or a startup and you are thinking to develop your own datacenter 
+
+        You do not need to guess capacity what you can do you can start server and all infrastructure with basic system and if you want to increase capacity you can increase it and if you want to decrease capacity you can decrease thhis with just one mouse click. 
+
+    4. Increase speed and agility: 
+        we don't wait to get ready our own data center if we have our idea and plan ready we don't need to wait for our datacenter to get ready because building data center takes 1 to 2 year of time and capital so we can create account  start using resources over the cloud and it will take some minute. 
+
+        so it provides speed and agility so we can convert our idea into reality within 5 to 10 minute if you are going to use cloud infrastructure.
+
+    5.  Stop spending money running and maintaining data centers:
+        you can work from anywhere you can work anytime you don't need to spend money for maintaining data center, you don't need to worry about security, you don't need to pay rent for your datacenter. This responsibility is the responsibility of cloud service provider. We will pay them rent whatever the resources we are going to use no capital expenditure, yes operational expenditure is there. 
+            and as you know that it is also same we have in  our own premises datacenter as well.
+
+    6. Go global in minutes: 
+        AWS having there region all over the world  so you can use any infrastructure of aws world wide. in case of own premises datacenter we need to place our infrastructure in other countries to run business there. and it will be very hard to maintain datacenter remotely. Yes we are going to use datacenter of aws in the us region.
+        
+
+3. Types of cloud: 
+    1. private cloud:
+        if i am building cloud for company and my users and my employees we call it private cloud. 
+
+        -> difference between private cloud and on premises data infrastructure: 
+            
