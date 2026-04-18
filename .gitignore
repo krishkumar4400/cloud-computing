@@ -140,3 +140,8 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 >>>>>>> 925af8714b8723842a00f77ab4767a8a9831be13
+
+
+*.ppk
+
+notes.txt
